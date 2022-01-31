@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-xunit",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "A Newman JUnit Reporter providing full reports (without aggregation of results) based on newman-reporter-junitfull package",
   "main": "index.js",
   "bundleDependencies": false,
