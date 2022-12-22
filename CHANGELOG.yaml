@@ -19,3 +19,7 @@
   date: 2020-11-27
   fixes:
     - 'https://github.com/bhecquet/newman-reporter-xunit/issues/1: Change paths for publication in Jenkins'
+2.4.5:
+  date: 2022-12-22
+  fixes:
+    - Adds Collection name into the testsuite attributes.
