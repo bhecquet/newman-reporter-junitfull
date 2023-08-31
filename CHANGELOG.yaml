@@ -18,4 +18,8 @@
 2.1.0:
   date: 2020-11-27
   fixes:
-    - 'https://github.com/bhecquet/newman-reporter-xunit/issues/1: Change paths for publication in Jenkins'
+    - 'https://github.com/bhecquet/newman-reporter-xunit/issues/1: Change paths for publication in Jenkins'    
+2.2.0:  
+  date: 2023-08-31
+  fixes:
+    - 'Added capability to display skipped tests in report'
